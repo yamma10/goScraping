@@ -1,0 +1,40 @@
+1位 
+ タイトル: LINEヤフーが「GitHub Copilot for Business」を導入、1人あたりのコーディング時間が削減
+ URL: https://codezine.jp//article/detail/18577 
+
+2位 
+ タイトル: Spring Boot 2.7と3.0のOSSサポート切れ間近！ 開発が便利に楽しくなる最新バージョンへ移行しよう
+ URL: https://codezine.jp//article/detail/18471 
+
+3位 
+ タイトル: 初めて任された現場でプロジェクトマネジメントができるのか、不安でたまりません
+ URL: https://codezine.jp//article/detail/18493 
+
+4位 
+ タイトル: Microsoft、クラウドネイティブアプリケーションプラットフォーム「Radius」をオープンソースで提供開始
+ URL: https://codezine.jp//article/detail/18575 
+
+5位 
+ タイトル: 定年が近づくにつれ就労意欲が高くなる傾向、PE-BANK「ITエンジニアのセカンドキャリアに関する意識調査」を実施
+ URL: https://codezine.jp//article/detail/18578 
+
+6位 
+ タイトル: 「Raspberry Pi 5」出荷開始、日本発売は未定も、性能は前世代機の2倍以上
+ URL: https://codezine.jp//article/detail/18571 
+
+7位 
+ タイトル: マイクロサービスAPIとは何か？ マイクロサービスとWeb APIの定義と仕組みを解説
+ URL: https://codezine.jp//article/detail/18491 
+
+8位 
+ タイトル: Next.jsの新常識「App Router」を学ぼう！
+ URL: https://codezine.jp//article/detail/17925 
+
+9位 
+ タイトル: 最大60％OFFとなる「Kindle本ストア11周年キャンペーン」は10/26まで、技術書も対象
+ URL: https://codezine.jp//article/detail/18554 
+
+10位 
+ タイトル: 「void」 ～マンガでプログラミング用語解説
+ URL: https://codezine.jp//article/detail/18331 
+
